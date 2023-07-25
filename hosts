@@ -1,3 +1,10 @@
+# Title: My personal host block list
+# Date: 25 July 2023 20:55:54 (UTC)
+# Number of unique domains: 18
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/christian-putzke/host-blocklist/main/hosts
+# Project home page: https://github.com/christian-putzke/host-blocklist
+
 0.0.0.0 advice-ads.s3.amazonaws.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 stats.g.doubleclick.net
