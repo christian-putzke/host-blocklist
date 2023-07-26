@@ -1,25 +1,22 @@
-# Title: My personal host block list
-# Date: 25 July 2023 20:55:54 (UTC)
-# Number of unique domains: 18
-#
-# Fetch the latest version of this file: https://raw.githubusercontent.com/christian-putzke/host-blocklist/main/hosts
-# Project home page: https://github.com/christian-putzke/host-blocklist
-
-0.0.0.0 advice-ads.s3.amazonaws.com
-0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 stats.g.doubleclick.net
-0.0.0.0 ad.doubleclick.net
-0.0.0.0 static.doubleclick.net
-0.0.0.0 m.doubleclick.net
-0.0.0.0 mediavisor.doubleclick.net
-0.0.0.0 ads-api.twitter.com
-0.0.0.0 ads.pinterest.com
-0.0.0.0 ads.youtube.com
-0.0.0.0 ads.tiktok.com
-0.0.0.0 analyticsengine.s3.amazonaws.com
-0.0.0.0 advertising-api-eu.amazon.com
-0.0.0.0 qualtrics.com
-0.0.0.0 amazonclix.com
-0.0.0.0 metrics.mzstatic.com
-0.0.0.0 client-telemetry.roblox.com
-0.0.0.0 ccc.hpeprint.com
+advice-ads.s3.amazonaws.com
+pagead2.googlesyndication.com
+stats.g.doubleclick.net
+ad.doubleclick.net
+static.doubleclick.net
+m.doubleclick.net
+mediavisor.doubleclick.net
+ads-api.twitter.com
+ads.pinterest.com
+ads.youtube.com
+ads.tiktok.com
+analyticsengine.s3.amazonaws.com
+advertising-api-eu.amazon.com
+qualtrics.com
+amazonclix.com
+metrics.mzstatic.com
+client-telemetry.roblox.com
+ccc.hpeprint.com
+doubleclick.net
+amazonaax.com
+ads.facebook.com
+ads.reddit.com
